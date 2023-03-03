@@ -15,6 +15,14 @@ historical --ticker BTC
 historical --ticker ETH
 ![ether](https://user-images.githubusercontent.com/13305262/222621907-f0187ff1-4c54-4796-bd28-f9d1dc95327b.png)
 
+Ice us dollar index
+![us_dollar](https://user-images.githubusercontent.com/13305262/222622195-c6d82111-b793-471a-a27c-cd09d9a11442.png)
+
+yen
+
+![yen](https://user-images.githubusercontent.com/13305262/222622265-7bd7ff07-b7fb-4e44-a0b6-561d6271a0ee.png)
+
+
 save plots
 
 upload to s3
